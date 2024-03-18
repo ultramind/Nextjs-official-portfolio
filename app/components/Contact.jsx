@@ -27,11 +27,8 @@ const Contact = ({ theme }) => {
           data-aos="fade-up"
         >
           <div class="card flex-col space-y-4">
-            <div>
-              <img src={img} className="w-[100%] rounded-lg" alt="" />
-            </div>
-            <h2 className="text-3xl font-bold">Nevine Acotanza</h2>
-            <h2 className="text-primary text-xl">Chief Operating Officer</h2>
+            <h2 className="text-3xl font-bold">Akachukwu Udechukwu</h2>
+            <h2 className="text-primary text-xl">Fullstack Developer</h2>
           </div>
           <p>
             I am available for freelance work. Connect with me via and call in
